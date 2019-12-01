@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif;
+}
+
+#gamemodes {
+    background-color: darkslategray;
+    opacity: 0.8;
+    color: white;
+    position: absolute;
+    right: 0px;
+    top: 30vh;
+    width: 300px;
+    height: 40vh;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+
+#gamemodes > hr {
+    border-color: black;
+}
+
+#gamemodes > .mode {
+    padding: 10px;
+    font-size: 20px;
+}

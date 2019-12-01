@@ -1,0 +1,20 @@
+{
+    "author": "Onfire Network",
+    "version": "0.1",
+    "server_scripts": [
+        "base/server.lua",
+        "freeroam/server.lua",
+        "gungame/server.lua"
+    ],
+    "client_scripts": [
+        "base/client.lua",
+        "freeroam/client.lua",
+        "gungame/client.lua",
+        "ui/client.lua"
+    ],
+    "files": [
+        "ui/hud.html",
+        "ui/hud.css",
+        "ui/hud.js"
+    ]
+}
